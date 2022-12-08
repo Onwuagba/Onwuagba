@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Onwuagba
-- 👀 I’m interested in web development, software testing and digital marketing
-- 🌱 I currently work with Django, PHP and Flutter (beginner)
+- 👀 Passionate about software development, QA and digital marketing
+- 🌱 Actively developing REST and GraphQL APIs using Python, PHP and Flutter (absolute beginner)
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 How to reach me - onwuagbakenenna[at]gmail[dot]com 
 
