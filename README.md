@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Onwuagba
-- 👀 Passionate about software development, QA and digital marketing
-- 🌱 Actively developing REST APIs using Python and Go (absolute beginner)
+- 👀 Software Engineer with a touch of QA and Digital Marketing
+- 🌱 Actively developing APIs with Python and Go (absolute beginner)
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 How to reach me - onwuagbakenenna[at]gmail[dot]com 
 
